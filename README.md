@@ -10,3 +10,4 @@ s(t) = \sin(2π.f_1.t) + \sin(2\π.f_2.t)
 5.Sinyal Çözümleme (Decoding) Bu modül, kaydedilen ses dosyasını analiz ederek metni geri elde eder. Yöntem: Dosya belleğe alınarak zaman pencerelerine bölünmüştür.
 6.Goertzel Algoritması: FFT'ye göre daha hızlı ve verimli olduğu için önceden belirlenmiş frekansların varlığını kontrol eden bu algoritma tercih edilmiştir.5. 
 7.Pencereleme: Spektral sızıntıyı önlemek ve gürültüyü azaltmak amacıyla Hamming Penceresi uygulanmıştır.
+8.Grafik:Yazılan karakterlerin sesini anladıktan sonra 3 farklı grafik ile ekranda gösterilmiştir.
